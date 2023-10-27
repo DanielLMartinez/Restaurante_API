@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\danil\\Desktop\\API_Restaurante\\API_Arquitectura\\API_Arquitectura.csproj": {}
+    "C:\\Users\\danil\\Desktop\\Restaurante_API\\API_Restaurante\\API_Arquitectura\\API_Arquitectura.csproj": {}
   },
   "projects": {
-    "C:\\Users\\danil\\Desktop\\API_Restaurante\\API_Arquitectura\\API_Arquitectura.csproj": {
+    "C:\\Users\\danil\\Desktop\\Restaurante_API\\API_Restaurante\\API_Arquitectura\\API_Arquitectura.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\danil\\Desktop\\API_Restaurante\\API_Arquitectura\\API_Arquitectura.csproj",
+        "projectUniqueName": "C:\\Users\\danil\\Desktop\\Restaurante_API\\API_Restaurante\\API_Arquitectura\\API_Arquitectura.csproj",
         "projectName": "API_Arquitectura",
-        "projectPath": "C:\\Users\\danil\\Desktop\\API_Restaurante\\API_Arquitectura\\API_Arquitectura.csproj",
+        "projectPath": "C:\\Users\\danil\\Desktop\\Restaurante_API\\API_Restaurante\\API_Arquitectura\\API_Arquitectura.csproj",
         "packagesPath": "C:\\Users\\danil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\danil\\Desktop\\API_Restaurante\\API_Arquitectura\\obj\\",
+        "outputPath": "C:\\Users\\danil\\Desktop\\Restaurante_API\\API_Restaurante\\API_Arquitectura\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -46,6 +46,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.2.0, )"
+            },
+            "Oracle.ManagedDataAccess.EntityFramework": {
+              "target": "Package",
+              "version": "[21.9.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.5.0, )"
