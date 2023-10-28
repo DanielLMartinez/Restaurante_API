@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\API_Arquitectura",
+    "\\API_Arquitectura\\bin",
+    "\\API_Arquitectura\\Controllers",
+    "\\API_Arquitectura\\Models",
+    "\\API_Arquitectura\\Properties",
+    "\\API_Arquitectura\\Servicios",
+    "\\API_Arquitectura\\Servicios\\Implementacion"
+  ],
+  "SelectedNode": "\\API_Arquitectura\\Servicios\\Implementacion\\OrdenService.cs",
+  "PreviewInSolutionExplorer": false
+}

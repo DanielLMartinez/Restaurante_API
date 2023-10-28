@@ -14,7 +14,7 @@ namespace API_Arquitectura.Models
 
             DataTable dt = connection.Execute(query);
 
-            dt.Rows
+            
 
             return "";
         }
